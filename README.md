@@ -12,18 +12,23 @@ Além das funcionalidades, o projeto foi desenvolvido seguindo boas práticas de
 
 🚀 Tecnologias utilizadas: Java | MySQL | HTML | CSS | Javascript
 
-Tela de login image
+Tela inicial
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/1baafa29-6fa3-40b4-983d-c9fb6cf425d1" />
 
-Homepage image
+Tela de consultar por id 
+<img width="1901" height="909" alt="image" src="https://github.com/user-attachments/assets/19fd8139-236e-4594-94a7-8fd4c6be1c59" />
 
-Tela de cadastro image
+Tela de consultar todos
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/35ac8d10-1bee-4cc8-aaca-1eed0223c080" />
 
-Tela de consultar por id image
 
-Tela de consultar todos image
+Tela de relatório
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/2e4aa9b6-c002-44b8-9348-dc3cd6288aaf" />
 
-Tela de relatório image
 
-O projeto conta com dois diagramas: Diagrama de sequencia e classe WhatsApp Image 2026-04-22 at 23 33 03
+Tela de Calculo de Salário
+<img width="1899" height="908" alt="image" src="https://github.com/user-attachments/assets/2fb77ff7-c3eb-4bb1-8b41-acdd8da27309" />
 
-WhatsApp Image 2026-04-10 at 21 36 54
+O projeto conta com dois diagramas: Diagrama de sequencia e classe 
+
+
